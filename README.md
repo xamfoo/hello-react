@@ -1,5 +1,7 @@
 # Hello React
 
+[![Join the chat at https://gitter.im/xamfoo/hello-react](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xamfoo/hello-react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Try React with Meteor in a quick tutorial.
 
 ## Setup
