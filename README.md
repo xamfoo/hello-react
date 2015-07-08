@@ -76,7 +76,14 @@ var App = React.createClass({
       images: Images.find().fetch()
     }
   },
-  // render()...
+  render() {
+    return (
+      <div>
+        <h1>Hello React!</h1>
+        <ImageList images={this.data.images} />
+      </div>
+    );
+  }
 });
 ```
 
